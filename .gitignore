@@ -1,0 +1,17 @@
+.vs
+*.ipch
+*.db
+*.tlog
+*.obj
+*.user
+*.pch
+*.pdb
+*.lib
+*.lock
+*.ide
+*.db-wal
+*.log
+*.suo
+*.lib
+*.exp
+tmp

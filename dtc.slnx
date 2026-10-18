@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="DTC/DTC.vcxproj" Id="D3304A61-5120-EBA3-798C-A4E6D9E40397" />
+</Solution>
